@@ -39,7 +39,7 @@ I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during
 
 * I typically get up at around 6:30am.
 * I start working around 8am and stop working between 5:00pm and 5:30pm.
-* I really value work life balance and make it a point to not work on the weekends unless explicitly asked to.
+* I am available between ~7am and ~6:30pm for meetings.
 
 #### When do you prefer to work alone, versus in groups?
 * I prefer pair programming or 1 on 1s after lunch.
@@ -51,7 +51,7 @@ I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during
 * After lunch I generally get a little groggy for an hour or so.
 
 ## Communication Preferences
-* I prefer Slack for getting my attention. I have a personal target of responding to slack messages within 5 minutes during my working hours (7am-5pm).
+* I prefer Slack for getting my attention. I have a personal target of responding to slack messages within 5 minutes during my working hours (7am-6pm).
 * If we need to talk at length about something I prefer face to face video calls using Meet or Zoom.
 * I only check my email once a day in the mornings.
 * Outside of my working hours I do not have a target for responding to work related communication. I do typically check Slack once during the evenings on weekdays and once or twice a day on weekends.
