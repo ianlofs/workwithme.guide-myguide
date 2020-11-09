@@ -39,10 +39,10 @@ I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during
 
 * I typically get up at around 6:30am.
 * I start working around 8am and stop working between 5:00pm and 5:30pm.
-* I am available between ~7am and ~6:30pm for meetings.
+* I am available between 7am and 6:30pm for meetings.
 
 #### When do you prefer to work alone, versus in groups?
-* I prefer pair programming or 1 on 1s after lunch.
+* I prefer pair programming or 1 on 1s before lunch.
 * I like to work things out on my own before reaching out for help.
 
 #### How do your energy levels fluctuate throughout the day?
@@ -53,9 +53,7 @@ I live and work remotely in Denver, CO where the timezone is UTC-7 (UTC-6 during
 ## Communication Preferences
 * I prefer Slack for getting my attention. I have a personal target of responding to slack messages within 5 minutes during my working hours (7am-6pm).
 * If we need to talk at length about something I prefer face to face video calls using Meet or Zoom.
-* I only check my email once a day in the mornings.
 * Outside of my working hours I do not have a target for responding to work related communication. I do typically check Slack once during the evenings on weekdays and once or twice a day on weekends.
-* When I am in the office and I have my headphones on I would prefer that you ping me on Slack before tapping on my shoulder.
 
 ## How To Know I’ve Gone To The Dark Side
 
@@ -74,7 +72,7 @@ _I don't expect this list to change your actions—but it might help you better 
 * Not using good microphones in meetings. As a remote employee this is super important to me. I need to be able to hear you to be able to have a conversation with you.
 
 ## Career Goals & Future Interests
-* Short term: Continue to support and implement new features for the business intelligence platform at Pantheon. I've put a lot of time and energy into this and want it to reach its potential.
+* Short term: Continue to support and implement new features for the Data Platform at CircleCI.
 * Long term: Move into a role where I can have a higher level decision making capacity around the direction of technology in a business while supporting those around me. This means a management track in the near term and eventually a Director or VP role in the long term.
 
 ## Areas for Development
