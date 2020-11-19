@@ -1,15 +1,3 @@
----
-layout: profile
-# Set both of these to your name
-title: Ian Lofgren
-full_name: Ian Lofgren
-# Set this to the Github URL for links to work correctly
-github_url: https://github.com/ianlofs/workwithme.guide-myguide/
-# To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-picture: ./profile.jpg
-# To add your name to the front page list, uncomment below
-# categories: [profile]
----
 # Ian Lofgren - Work With Me
 
 ![me](./profile.jpg)
