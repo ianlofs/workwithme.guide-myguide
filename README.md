@@ -10,6 +10,10 @@ picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
 # categories: [profile]
 ---
+# Ian Lofgren - Work With Me
+
+![me](./profile.jpg)
+
 ## Values
 
 * I value **curiosity** and **self-reliance**. I love digging into new problem areas or technologies and figuring those out on my own.
