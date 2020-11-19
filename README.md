@@ -1,6 +1,5 @@
-# Ian Lofgren - Work With Me
-
 ![me](./profile.jpg)
+# Ian Lofgren - Work With Me
 
 ## Values
 
